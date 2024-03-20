@@ -194,3 +194,5 @@ find
 rm --help
 ls --color=auto
 rm -r fonts
+find
+ls --color=auto
