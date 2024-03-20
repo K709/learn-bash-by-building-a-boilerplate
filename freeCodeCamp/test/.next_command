@@ -196,3 +196,6 @@ ls --color=auto
 rm -r fonts
 find
 ls --color=auto
+touch package.josn
+rm package.josn
+touch package.json
